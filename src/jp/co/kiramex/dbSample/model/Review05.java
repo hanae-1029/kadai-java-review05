@@ -41,8 +41,6 @@ public class Review05 {
                 System.out.println(name);
                 System.out.println(age);
 
-                System.out.println(name + "\t" + age);
-
             }
 
         } catch (ClassNotFoundException e) {
